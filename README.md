@@ -6,7 +6,7 @@ A personally tried-and-test curated list of software tools that worked best in m
 
 Working as a Consultant in project management and business analysis, I help clients with solutions to their business challenges.
 
-In recent years my work has significantly shifted from tech-infrastructure to data driven initiatives. <!--more--> That's when I started to learn Data Science. Did Moocs, read books, tutorials and tried a lot of open source software - basically got acquainted with quite a lot of theory, tools and languages.
+In recent years my work has significantly shifted from tech-infrastructure to data driven initiatives. That's when I started to learn Data Science. Did Moocs, read books, tutorials and tried a lot of open source software - basically got acquainted with quite a lot of theory, tools and languages.
 
 This list is the crux of my effort. I've curated list of software that worked best for me in merging data analytics skillset with my consulting career.
 
@@ -16,25 +16,26 @@ On my end, my learning isn't over - reckon I've just got myself addicted to mach
 
 So stay tuned and meanwhile, if you feel something could be improved, please feel free to make any contribution. Just send me a pull request or simply connect on LinkedIn.
 
+## Table of Contents
 
-<!-- MarkdownTOC depth=4 -->
+<!-- MarkdownTOC autolink="true" bracket="round" depth=4 -->
 
-- Data Science
-	- Languages
-	- Machine Learning libraries
-	- Cloud platforms
-	- Virtualisation
-- Web programming
-	- Frontend
-	- Backend
-	- Server engines
-- Environments/Editors
-	- IDE's
-	- Editors
-- Productivity at work
-	- Microsoft suite
-	- Mindmapping
-- Statistical Analysis Techniques
+- [Data Science](#data-science)
+  - [Languages](#languages)
+  - [Machine Learning libraries](#machine-learning-libraries)
+  - [Cloud platforms](#cloud-platforms)
+  - [Virtualisation](#virtualisation)
+- [Web programming](#web-programming)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Server engines](#server-engines)
+- [Environments/Editors](#environmentseditors)
+  - [IDE's](#ides)
+  - [Editors](#editors)
+- [Productivity at work](#productivity-at-work)
+  - [Microsoft suite](#microsoft-suite)
+  - [Mindmapping](#mindmapping)
+- [Statistical Analysis Techniques](#statistical-analysis-techniques)
 
 <!-- /MarkdownTOC -->
 
