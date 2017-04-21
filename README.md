@@ -32,6 +32,9 @@ So stay tuned and meanwhile, if you feel something could be improved, please fee
   - [Microsoft suite](#microsoft-suite)
   - [Mindmapping](#mindmapping)
 - [Statistical Analysis Techniques](#statistical-analysis-techniques)
+- [Interactive Web Designing](#interactive-web-designing)
+  - [Wireframes & Mockups](#wireframes--mockups)
+  - [Image Editing](#image-editing)
 
 <!-- /MarkdownTOC -->
 
@@ -156,3 +159,20 @@ So stay tuned and meanwhile, if you feel something could be improved, please fee
 
 * ANOVA
 * t-test
+
+## Interactive Web Designing
+
+* [InVision](https://www.invisionapp.com/) - interactive web and mobile prototypig
+
+#### Wireframes & Mockups
+
+* [moqups.com](https://moqups.com) - offers free trial for upto 300 objects
+* [wireframe.cc](https://wireframe.cc) - offers free trial
+* [Pencil Project](http://pencil.evolus.vn/) - free tool
+* [Material Design](https://material.io/devices/) - for device sizing, resolutions, details
+
+#### Image Editing
+
+* Omnigraffle
+* Adobe Photoshop
+* 
